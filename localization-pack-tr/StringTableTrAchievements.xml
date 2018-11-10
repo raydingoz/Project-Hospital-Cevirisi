@@ -1,12 +1,12 @@
 ﻿<Database>
     <GameDBStringTable ID="LOC_TR_ACHIEVEMENTS">
 
-        <LanguageCode>TR</LanguageCode>
+        <LanguageCode>tr</LanguageCode>
         <LanguageNameLocalized>Turkish</LanguageNameLocalized>
     
         <Contributors>
-          <Name>Eray Senel </Name>
-          <Name>Darius Fischer Senel </Name>
+          <Name>Eray Şenel</Name>
+          <Name>Darius Fischer Şenel</Name>
           <Name>Raydingoz</Name>
         </Contributors>
     
